@@ -59,7 +59,7 @@ Creating a user navigable database to keep track of their reading addiction.
 ![froggy](https://user-images.githubusercontent.com/100103488/187087315-d68eb4a0-517c-4e48-9e79-e5da4162f71b.gif)
 
 ## Installation
-Download, run npm install on entire package, or check out what should be a heroku link.
+Download, run npm install on entire package, or check out what should be a heroku link https://git.heroku.com/booklytime.git
 
 ## Usage
 Book addition and subtraction in a profile
